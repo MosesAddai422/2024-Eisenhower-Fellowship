@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
     
 # Google Maps API key
-API_KEY ='AIzaSyA3pjAhvu5oe-DMLg193CFM3unFaCUm9jo'
+API_KEY ='AIzaSyA3pjAhvu5oe-DMLg193CFM3unFaCUm9'
 
 # List of cities
 cities = [
